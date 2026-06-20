@@ -269,13 +269,6 @@ flowchart LR
 </details>
 
 <details>
-<summary><strong>为什么仓库名称还是 ppt-design-pro？</strong></summary>
-
-仓库由原来的单一 PPT Skill 演进而来。更名可以在目录结构和安装方式稳定后进行，避免当前链接与已有安装立即失效。
-
-</details>
-
-<details>
 <summary><strong>全局 Skill 和项目 Skill 有什么区别？</strong></summary>
 
 安装在 `$HOME/.codex/skills/` 下的 Skill 面向当前用户的所有项目；项目内部的 Skill 更适合只属于某个代码库、组织或产品的规范。
